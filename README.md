@@ -1,14 +1,8 @@
 # Customer_Feedback
-
-
-*Discription:
-
 Conducted comprehensive sentiment analysis on a large dataset of Amazon product reviews using NLP techniques to categorize feedback into positive, neutral, and negative sentiments.
 Applied Latent Dirichlet Allocation (LDA) for topic modeling to identify recurring themes in customer feedback, such as product quality, shipping delays, and customer service issues.
 Visualized key insights using bar charts, word clouds, and sentiment distributions, highlighting major customer concerns and product trends.
 Provided actionable recommendations to enhance customer satisfaction by addressing common pain points.
-
-*Conclusion:
 
 This project provided valuable insights into customer sentiment and key issues from Amazon product reviews. By applying sentiment analysis, we categorized reviews into positive, neutral, and negative, revealing that a significant portion of customer feedback was focused on product quality, shipping delays, and customer service.
 
